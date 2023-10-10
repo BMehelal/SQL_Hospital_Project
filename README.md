@@ -3,7 +3,7 @@
 Small SQL database project encompassing 6 different tables, modeling some layouts of what might happen in a hospital. It uses 6 queries to retrieve important data about what might be important data in a hospital. 
 
 ### Patients Table ###
-*Table Name: patients
+* Table Name: patients
 *Description: This table stores information about patients.
 *Fields:
 *patient_id (Primary Key): Unique identifier for each patient.
