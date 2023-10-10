@@ -4,7 +4,7 @@ Small SQL database project encompassing 6 different tables, modeling some layout
 
 ### Patients Table ###
 * Table Name: patients
-*Description: This table stores information about patients.
+* Description: This table stores information about patients.
 *Fields:
 *patient_id (Primary Key): Unique identifier for each patient.
 *first_name: First name of the patient.
