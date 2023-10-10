@@ -3,21 +3,21 @@
 Small SQL database project encompassing 6 different tables, modeling some layouts of what might happen in a hospital. It uses 6 queries to retrieve important data about what might be important data in a hospital. 
 
 ### Patients Table ###
--- Table Name: patients
--- Description: This table stores information about patients.
--- Fields:
--- patient_id (Primary Key): Unique identifier for each patient.
--- first_name: First name of the patient.
--- last_name: Last name of the patient.
--- insurance: Type of insurance the patient has.
--- DOB: Date of birth of the patient.
--- email: Email address of the patient.
--- address: Address of the patient.
--- phone_number: Phone number of the patient.
--- gender: Gender of the patient.
+*Table Name: patients
+*Description: This table stores information about patients.
+*Fields:
+*patient_id (Primary Key): Unique identifier for each patient.
+*first_name: First name of the patient.
+*last_name: Last name of the patient.
+*insurance: Type of insurance the patient has.
+*DOB: Date of birth of the patient.
+*email: Email address of the patient.
+*address: Address of the patient.
+*phone_number: Phone number of the patient.
+*gender: Gender of the patient.
 
  ### Doctors Table ###
- -- Description: This table stores information about doctors.
+ *Description: This table stores information about doctors.
 -- Fields:
 -- doctor_id (Primary Key): Unique identifier for each doctor.
 -- first_name: First name of the doctor.
@@ -27,7 +27,7 @@ Small SQL database project encompassing 6 different tables, modeling some layout
 -- specialization: Medical specialization of the doctor.
 -- gender: Gender of the doctor.
 
- ### Appointments Table###
+ ### Appointments Table ###
  -- Description: This table stores information about patient appointments with doctors.
 -- Fields:
 -- appt_id (Primary Key): Unique identifier for each appointment.
