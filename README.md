@@ -70,4 +70,4 @@ Small SQL database project encompassing 6 different tables, modeling some layout
 ### Query 5 ### 
 * Purpose: Retrieve patient information for appointments that are completed and have incomplete billing records.
 ### Query 6 ### 
--Purpose: Calculate the average occupancy rate for rooms.
+* Purpose: Calculate the average occupancy rate for rooms.
