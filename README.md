@@ -2,6 +2,9 @@
 
 Small SQL database project encompassing 6 different tables, modeling some layouts of what might happen in a hospital. It uses 6 queries to retrieve important data about what might be important data in a hospital. 
 
+Database Schema: 
+![Screenshot 2023-10-09 220241](https://github.com/BMehelal/SQL_Hospital_Project/assets/121823581/426632fe-b5bf-4786-b330-e3972d24bf72)
+
 ### Patients Table ###
 * Description: This table stores information about patients. *
 * Fields:
